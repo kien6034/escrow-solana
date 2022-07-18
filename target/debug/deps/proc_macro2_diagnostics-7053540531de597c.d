@@ -1,0 +1,10 @@
+/home/kien6034/blockchain/solana/anchor/escrow/target/debug/deps/proc_macro2_diagnostics-7053540531de597c.rmeta: /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/lib.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/ext.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/home/kien6034/blockchain/solana/anchor/escrow/target/debug/deps/libproc_macro2_diagnostics-7053540531de597c.rlib: /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/lib.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/ext.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/home/kien6034/blockchain/solana/anchor/escrow/target/debug/deps/proc_macro2_diagnostics-7053540531de597c.d: /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/lib.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/ext.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/line.rs
+
+/home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/lib.rs:
+/home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/ext.rs:
+/home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/diagnostic.rs:
+/home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-diagnostics-0.9.1/src/line.rs:

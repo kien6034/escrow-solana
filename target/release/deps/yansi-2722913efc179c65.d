@@ -1,0 +1,12 @@
+/home/kien6034/blockchain/solana/anchor/escrow/target/release/deps/yansi-2722913efc179c65.rmeta: /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/lib.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/macros.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/windows.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/paint.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/style.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/color.rs
+
+/home/kien6034/blockchain/solana/anchor/escrow/target/release/deps/libyansi-2722913efc179c65.rlib: /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/lib.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/macros.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/windows.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/paint.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/style.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/color.rs
+
+/home/kien6034/blockchain/solana/anchor/escrow/target/release/deps/yansi-2722913efc179c65.d: /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/lib.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/macros.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/windows.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/paint.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/style.rs /home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/color.rs
+
+/home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/lib.rs:
+/home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/macros.rs:
+/home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/windows.rs:
+/home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/paint.rs:
+/home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/style.rs:
+/home/kien6034/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.1/src/color.rs:
